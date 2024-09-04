@@ -1,9 +1,9 @@
 import requests
 import json
 
-APIC_IP = "https://172.16.100.75"
-USERNAME = "vector"
-PASSWORD = "Vector@123"
+APIC_IP = "API"
+USERNAME = "username"
+PASSWORD = "password"
 
 def get_apic_token(apic_ip, username, password):
     url = f"{apic_ip}/api/aaaLogin.json"
