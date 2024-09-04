@@ -2,9 +2,9 @@ import requests
 import json
 
 # Replace with your APIC credentials and URL
-apic_url = "https://172.16.100.75"
-username = "vector"
-password = "Vector@123"
+apic_url = "API"
+username = "your_username"
+password = "your_password"
 
 # Disable warnings for unverified HTTPS requests
 requests.packages.urllib3.disable_warnings(requests.packages.urllib3.exceptions.InsecureRequestWarning)
