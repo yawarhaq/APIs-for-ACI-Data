@@ -1,7 +1,7 @@
 import requests
 import json
 
-APIC_IP = "API"
+APIC_IP = "https://your-apic-url"
 USERNAME = "username"
 PASSWORD = "password"
 
