@@ -2,7 +2,7 @@ import requests
 import json
 
 # Replace with your APIC credentials and URL
-apic_url = "API"
+apic_url = "https://your-apic-url"
 username = "your_username"
 password = "your_password"
 
